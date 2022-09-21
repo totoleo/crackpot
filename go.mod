@@ -5,14 +5,15 @@ go 1.19
 require (
 	github.com/VictoriaMetrics/fastcache v1.10.0
 	github.com/apache/thrift v0.13.0
+	github.com/bytedance/gopkg v0.0.0-20220531084716-665b4f21126f
 	github.com/bytedance/sonic v1.4.0
 	github.com/cloudwego/frugal v0.1.3
 	github.com/cloudwego/kitex v0.4.2
 	github.com/libp2p/go-buffer-pool v0.1.0
+	github.com/phpdave11/gofpdf v1.4.2
 )
 
 require (
-	github.com/bytedance/gopkg v0.0.0-20220531084716-665b4f21126f // indirect
 	github.com/cespare/xxhash/v2 v2.1.2 // indirect
 	github.com/chenzhuoyu/base64x v0.0.0-20211019084208-fb5309c8db06 // indirect
 	github.com/chenzhuoyu/iasm v0.0.0-20220818063314-28c361dae733 // indirect
