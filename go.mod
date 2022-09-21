@@ -5,7 +5,7 @@ go 1.19
 require (
 	github.com/VictoriaMetrics/fastcache v1.12.0
 	github.com/bytedance/gopkg v0.0.0-20220531084716-665b4f21126f
-	github.com/bytedance/sonic v1.4.0
+	github.com/bytedance/sonic v1.5.0
 	github.com/cloudwego/frugal v0.1.3
 	github.com/libp2p/go-buffer-pool v0.1.0
 	github.com/phpdave11/gofpdf v1.4.2
